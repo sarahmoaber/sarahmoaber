@@ -1,6 +1,4 @@
-- Hi, I'm Sarah student in university
-- I’m interested in web development and UI/UX design and learn more about programming.
-- I’m currently learning Front-End and Back-End 
+A skilled web developer in both front-end and back-end development, specializing in HTML, CSS, JavaScript. with an ambition to continuous learning.
 
 
 <!---
