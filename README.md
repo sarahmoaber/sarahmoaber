@@ -1,4 +1,5 @@
-A skilled web developer in both front-end and back-end development, specializing in HTML, CSS, JavaScript. with an ambition to continuous learning.
+A skilled web developer in both front-end and back-end development, specializing in HTML, CSS, JavaScript.
+
 
 
 <!---
