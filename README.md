@@ -1,4 +1,4 @@
-Hi 👋 My name is Sarah Ahmad
+👋 Hello and welcome! This is where I showcase my passion for coding.
 ============================
 <h3 align="left">👩‍💻  About Me</h3>
 *   🌍  I'm based in Saudi Arabia. <br>
