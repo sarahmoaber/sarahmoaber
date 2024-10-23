@@ -3,7 +3,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 *   🌍  I'm based in Saudi Arabia. <br>
 *   ⚡  A skilled web developer in both front-end and back-end development, specializing in HTML, CSS, JavaScript. <br>
-*   🧠  I have knowledge in several other languages such as Java and Python.
+*   🧠  Interested in AI and Data Analysis
 <br>
 <br>
 <h3 align="left">🛠 Language and tools</h3>
